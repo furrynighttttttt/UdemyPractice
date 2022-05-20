@@ -1,0 +1,11 @@
+express: backend framework for Nodejs
+express-validator: data validation
+dotenv: create a env to save database URL, secret token
+bcrypt: for password decrypt
+config: global variable
+gravatar: profile avatar, automatically get the avatar to the profile
+jsonwebtoken: create a secret token 
+mongoose: connect with database
+request: module allows to make http request to another apis and hide apis from the backend
+nodemon: watch the server, reset the server every time there is a change automatically
+concurrently: allows to run client and server run at the same time
